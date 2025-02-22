@@ -1,19 +1,15 @@
-# Dynamic-Wireless-Charging-for-EVs-
-A hardware-based project enabling real-time wireless charging of EVs using magnetic induction &amp; resonant coupling. Eliminates the need for charging stops by transferring power efficiently while in motion.  
-📌 Includes: Documentation, schematics, research insights &amp; future scope.
-
-
 # 🚗 Dynamic Wireless Charging of Electric Vehicles ⚡
 
-![Wireless Charging Concept](https://upload.wikimedia.org/wikipedia/commons/3/3d/Wireless_Power_Transfer_Concept.svg)
+![Wireless Charging Concept](https://youtu.be/gVLwLQgo66o?si=lyrIlI2eteTijHU9)
+![Demonstrative Video](https://drive.google.com/file/d/1jiZOiu51J2EZuG3WZIXTAUT8fzhyA_i4/view?usp=sharing)
 
 ## 📌 Project Overview
-This project explores **Dynamic Wireless Charging** for Electric Vehicles (EVs), a cutting-edge technology that enables EVs to charge while in motion using inductive power transfer. Unlike traditional plug-in chargers, this approach enhances efficiency and extends driving range without frequent stops.
+This project explores Dynamic Wireless Charging for Electric Vehicles (EVs), a cutting-edge technology that uses inductive power transfer to charge EVs while in motion. Unlike traditional plug-in chargers, this approach enhances efficiency and extends driving range without frequent stops.
 
 ## 🏗️ How It Works
 - **Inductive Coils** are embedded under road surfaces.
 - **Power Transmission** occurs wirelessly through electromagnetic fields.
-- **Receiving Coils** in EVs capture the energy and charge the battery in real time.
+- **Receiving Coils** in EVs capture the energy and charge the battery in real-time.
 - **Efficient Energy Transfer** ensures continuous charging without disrupting travel.
 
 ## 🎯 Key Features
