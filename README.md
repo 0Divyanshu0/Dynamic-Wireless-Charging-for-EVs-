@@ -6,6 +6,9 @@
 
 This project explores Dynamic Wireless Charging for Electric Vehicles (EVs), a cutting-edge technology that uses inductive power transfer to charge EVs while in motion. Unlike traditional plug-in chargers, this approach enhances efficiency and extends driving range without frequent stops.
 
+![Charging Concept](Images/Project_Pic_1.jpg)
+![Car Image](Images/WPT_PPT.jpg)
+
 ## 🏗️ How It Works
 
 - **Inductive Coils** are embedded under road surfaces.
